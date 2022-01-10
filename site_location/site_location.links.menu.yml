@@ -1,0 +1,6 @@
+site_location.admin_settings_form:
+  title: 'Site Location Settings'
+  description: 'Site Location Settings Page.'
+  parent: system.admin_config_system
+  menu_name: main
+  route_name: site_location.content
